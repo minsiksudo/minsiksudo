@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @minsiksudo
-- 👀 I’m interested in biostatistics especially metagenomics
+- 👀 I’m interested in implemneting statistical models for clustered/longitudinal shotgun seuqencing data
 - 📫 How to reach me minsik.kim@mgh.harvard.edu
 
 <!---
