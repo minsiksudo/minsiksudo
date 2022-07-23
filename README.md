@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @minsiksudo
 - 👀 I’m interested in biostatistics especially metagenomics
-- 📫 How to reach me minsik.kim@alumni.kaist.ac.kr
+- 📫 How to reach me minsik.kim@mgh.harvard.edu
 
 <!---
 minsiksudo/minsiksudo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
