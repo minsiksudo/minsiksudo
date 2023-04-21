@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @minsiksudo
-- 👀 I’m interested in implemneting statistical models for clustered/longitudinal shotgun seuqencing data
+- 👀 Keyworkds: Bioprocesses; Microalgae; Pahtogens; Wastewater; Amplicon sequencing; Shot-gun metagenomics; Environmental microbiome; Asthma
+- Currently I am looking for the best methods/statistical model for clustered/longitudinal shotgun seuqencing data
 - 📫 How to reach me minsik.kim@mgh.harvard.edu
 
 <!---
