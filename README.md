@@ -2,7 +2,7 @@
 - 👀 Keyworkds: Bioprocesses; Microalgae; Pahtogens; Wastewater; Amplicon sequencing; Shot-gun metagenomics; Environmental microbiome; Asthma
 - 🔬Currently, I am looking for the best method/statistical model for clustered/longitudinal shotgun sequencing data
 - 📫 How to reach me minsik.kim@inha.ac.kr
-- 💻 Please visit https://sites.google.com/view/bagel-inha/ for more information
+- 💻 Please visit https://bagel.inha.ac.kr for more information
 
 
 <!---
