@@ -19,10 +19,11 @@
 
 - 👀 BAGLE at Inha focuses one the following keywords: **Bioprocesses**; **Microalgae**; **Techno-economic assessments**; **Pahtogens**; **Wastewater**; **Amplicon sequencing**; **Shot-gun metagenomics**; **Environmental microbiome**; **Asthma**
 - 💻 Currently, we are looking for the best method/statistical model for clustered/longitudinal shotgun sequencing data, to be used for environmental applications
-- 🔬 Our lab is always seeking co-work opportunities and recruiting aspiring M.S. and Ph.D. applicants. Please feel free to contact me if you need any further information.
+
   
 ### Contacts
 
+- 🔬 Our lab is always seeking co-work opportunities and recruiting aspiring M.S. and Ph.D. applicants. Please feel free to contact me if you need any further information.
 - 📫 How to reach me by email minsik.kim@inha.ac.kr
 - 📞 How to reach me by phone +82-32-860-7515
 - 🏠 How to visit me 2S119, Inha University, 100 Inha St., Incheon 22212, Korea
