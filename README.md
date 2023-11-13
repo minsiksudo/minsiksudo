@@ -13,22 +13,6 @@
 - 🔬 Our lab is always seeking co-work opportunities and recruiting aspiring M.S. and Ph.D. applicants. Please feel free to contact me if you need any further information.
 - 📖 + this page contains lecture materials for BTE3207 (Advanced Biostatistics) and IBS7048 (Advanced Metagenomics).
 
-### Professional experience
-
-- 2023-current
-Assistant Professor, Harvard Medical School, Dept. of Chemical and Biomolecular Engineering
-- 2021-2023
-Research Fellow, Dept. of Medicine, Harvard Medical School
-- 2021-2023
-Research Fellow, Dept. of Medicine, Massachusetts General Hospital
-- 2020-2021
-Postdoctoral Researcher, Korea Research Institute of Bioscience and Biotechnology
-
-### Education
-
-- Ph.D., KAIST, Dept. of Chemical and Biomolecular Engineering
-- M.S., KAIST, Dept. of Chemical and Biomolecular Engineering
-- B.S., KAIST, Dept. of Chemical and Biomolecular Engineering
 
 ## About the lab
 
