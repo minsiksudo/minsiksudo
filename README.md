@@ -4,13 +4,12 @@
 
 - 🖥 Please visit https://bagel.inha.ac.kr for more information
 
-## About
+## About me
 
 ### Short blurb
 
 - 👋 Hi, I’m Minsik Kim (@minsiksudo), PI of the Bioprocess Analytics and Genomics Engineering Lab (BAGEL) at Inha University.
 - 🧪 As a bioprocess engineer and bioinformatician, I am trying to link metagenomic sequencing data with bioprocess research. 
-- 🔬 Our lab is always seeking co-work opportunities and recruiting aspiring M.S. and Ph.D. applicants. Please feel free to contact me if you need any further information.
 - 📖 + this page contains lecture materials for BTE3207 (Advanced Biostatistics) and IBS7048 (Advanced Metagenomics).
 
 
@@ -20,7 +19,8 @@
 
 - 👀 BAGLE at Inha focuses one the following keywords: **Bioprocesses**; **Microalgae**; **Techno-economic assessments**; **Pahtogens**; **Wastewater**; **Amplicon sequencing**; **Shot-gun metagenomics**; **Environmental microbiome**; **Asthma**
 - 💻 Currently, we are looking for the best method/statistical model for clustered/longitudinal shotgun sequencing data, to be used for environmental applications
-
+- 🔬 Our lab is always seeking co-work opportunities and recruiting aspiring M.S. and Ph.D. applicants. Please feel free to contact me if you need any further information.
+  
 ### Contacts
 
 - 📫 How to reach me by email minsik.kim@inha.ac.kr
