@@ -17,7 +17,7 @@
 
 ### Research
 
-- 👀 BAGLE at Inha focuses one the following keywords: **Bioprocesses**; **Microalgae**; **Techno-economic assessments**; **Pahtogens**; **Wastewater**; **Amplicon sequencing**; **Shot-gun metagenomics**; **Environmental microbiome**; **Asthma**
+- 👀 BAGLE at Inha focuses on the following keywords: **Bioprocesses**; **Microalgae**; **Techno-economic assessments**; **Pahtogens**; **Wastewater**; **Amplicon sequencing**; **Shot-gun metagenomics**; **Environmental microbiome**; **Asthma**
 - 💻 Currently, we are looking for the best method/statistical model for clustered/longitudinal shotgun sequencing data, to be used for environmental applications
 
   
